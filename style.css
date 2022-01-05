@@ -31,7 +31,7 @@ p {
 /* Default Flex  */
 .flex-container {
   display: flex;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 /* Stay Focused Styles */
 .stay-focused {
@@ -84,4 +84,37 @@ p {
 }
 .my-mission-item img {
   width: 25%;
+}
+/* AT section 3 and 4 i see, image taking one quarter place and other texts taking two quarter place thats why i am taking two classes-- one-quarter-width and two-quarter-width */
+.one-quarter-width{
+    width: 30%;
+    margin: 30px;
+  padding: 0 3%;
+}
+.two-quarter-width{
+    width: 60%;
+    margin: 30px;
+  padding: 0 3%;
+}
+
+/* Develop Without Limits Section Styles */
+.develop-limits{
+    margin: 0 11%;
+}
+#develop-limits-right{
+    padding-top: 150px;
+}
+.develop-limits img{
+    margin-left: 10%;
+    border-radius: 100px;
+}
+/* Know Community Styles */
+#know-community-left{
+    padding: 100px 0 0 150px;
+}
+.Know-community{
+    margin: 0 11%;
+}
+#project-image{
+    width:70%;
 }
