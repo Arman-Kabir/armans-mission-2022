@@ -87,6 +87,11 @@ p {
   border-radius: 10px;
   padding: 2%;
   margin-right: 2%;
+  
+}
+.my-mission-item:hover{
+  box-shadow: 20px 20px 20px #ddd,
+  -20px -20px 40px #ddd;
 }
 #my-mission-item1 {
   background-color: #581b98;
