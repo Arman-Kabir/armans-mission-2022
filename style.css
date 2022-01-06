@@ -3,6 +3,9 @@
   padding: 0;
 }
 /* Common Set Up */
+body{
+  font-family: 'Lato', sans-serif;
+}
 .focused-color {
   /* color: #04aa6d; */
   color: #5ac05a;
@@ -22,6 +25,7 @@ h3 {
 p {
   font-size: 18px;
   margin: 0 0 30px;
+  text-align: justify;
 }
 .text-center {
   text-align: center;
@@ -106,13 +110,13 @@ p {
   margin: 30px;
   padding: 0 3%;
 }
-
 /* Develop Without Limits Section Styles */
 .develop-limits {
   margin: 5% 10%;
 }
 #develop-limits-right {
   padding-top: 5%;
+  padding-right: 76px;
 }
 .develop-limits img {
   width: 90%;
@@ -129,11 +133,14 @@ p {
 
 #project-image {
   width: 90%;
-  padding-left: 88px;
+  padding-left: 10px;
 }
 /* Build Application Styles */
 .build-application {
   margin: 5% 10%;
+}
+.build-application h1{
+  font-family: 'Island Moments', cursive;
 }
 #application-image {
   width: 70%;
@@ -150,3 +157,8 @@ footer {
   height: 100px;
   padding-top: 25px;
 }
+footer h3{
+  margin-bottom: 10px;
+}
+
+
