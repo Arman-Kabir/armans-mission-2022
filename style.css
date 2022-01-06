@@ -121,18 +121,17 @@ p {
   padding-left: 88px;
 }
 /* Build Application Styles */
-#application-image{
-  width:50%;
+#application-image {
+  width: 50%;
   padding-left: 199px;
 }
-#application-texts-box{
+#application-texts-box {
   padding-right: 284px;
 }
 /* Footer Styles */
-footer{
-  
+footer {
   background-color: black;
-  color:white;
-  height:100px;
+  color: white;
+  height: 100px;
   padding-top: 25px;
 }
