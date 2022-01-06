@@ -52,7 +52,7 @@ p {
   border-radius: 10px;
   background-image: linear-gradient(#5ac05a, #04aa6d);
 }
-.half-side img {
+#my-image1 {
   width: 60%;
   margin-left: 20%;
   border-radius: 50%;
@@ -119,4 +119,20 @@ p {
 #project-image {
   width: 70%;
   padding-left: 88px;
+}
+/* Build Application Styles */
+#application-image{
+  width:50%;
+  padding-left: 199px;
+}
+#application-texts-box{
+  padding-right: 284px;
+}
+/* Footer Styles */
+footer{
+  
+  background-color: black;
+  color:white;
+  height:100px;
+  padding-top: 25px;
 }
