@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+
 /* Common Set Up */
 body {
   font-family: "Lato", sans-serif;
@@ -37,10 +38,12 @@ p {
 .margin-top-30px {
   margin: 30px 0 0;
 }
+
 /* Default Flex  */
 .flex-container {
   display: flex;
 }
+
 /* Stay Focused Styles */
 .stay-focused {
   margin: 5% 10% 10%;
@@ -77,6 +80,7 @@ p {
   border-left: 6px solid #5ac05a;
   line-height: 50px;
 }
+
 /* My Mission Styles */
 .my-mission-area {
   margin: 5% 10% 7%;
@@ -87,11 +91,9 @@ p {
   border-radius: 10px;
   padding: 2%;
   margin-right: 2%;
-  
 }
-.my-mission-item:hover{
-  box-shadow: 20px 20px 20px #ddd,
-  -20px -20px 40px #ddd;
+.my-mission-item:hover {
+  box-shadow: 20px 20px 20px #ddd, -20px -20px 40px #ddd;
 }
 #my-mission-item1 {
   background-color: #581b98;
@@ -106,6 +108,7 @@ p {
 .my-mission-item img {
   width: 25%;
 }
+
 /* AT section 3 and 4 i see, image taking one quarter place and other texts taking two quarter place thats why i am taking two classes-- one-quarter-width and two-quarter-width */
 .one-quarter-width {
   width: 30%;
@@ -117,6 +120,7 @@ p {
   margin: 30px;
   padding: 0 3%;
 }
+
 /* Develop Without Limits Section Styles */
 .develop-limits {
   margin: 5% 10% 7%;
@@ -136,6 +140,7 @@ p {
   margin-left: 10%;
   border-radius: 40px;
 }
+
 /* Know Community Styles */
 .know-community {
   margin: 5% 10% 7%;
@@ -149,11 +154,11 @@ p {
   background-position: 92% 96%;
   background-size: 25%;
 }
-
 #project-image {
   width: 90%;
   padding: 0 50px 50px 10px;
 }
+
 /* Build Application Styles */
 .build-application {
   margin: 5% 10%;
@@ -175,6 +180,7 @@ p {
 #application-texts-box {
   padding: 95px 84px 0 0;
 }
+
 /* Footer Styles */
 footer {
   background-color: black;
