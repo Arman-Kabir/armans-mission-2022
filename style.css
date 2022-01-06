@@ -109,12 +109,14 @@ p {
   border-radius: 100px;
 }
 /* Know Community Styles */
-#know-community-left {
-  padding: 100px 0 0 150px;
-}
-.Know-community {
+.know-community {
   margin: 0 11%;
 }
+#know-community-left {
+  padding: 33px 0 0 89px;
+}
+
 #project-image {
   width: 70%;
+  padding-left: 88px;
 }
